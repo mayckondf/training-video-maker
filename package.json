@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/mayckondf/video-maker.git",
   "author": "Mayckon Douglas Fernandes <mayckon.fr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
