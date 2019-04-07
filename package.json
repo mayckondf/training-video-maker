@@ -1,0 +1,13 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mayckondf/video-maker.git",
+  "author": "Mayckon Douglas Fernandes <mayckon.fr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15"
+  }
+}
